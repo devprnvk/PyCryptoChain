@@ -1,6 +1,6 @@
 # PyCryptoChain
 
-![Bitcoin Circuit Board Cryptocurrency](https://cdn.pixabay.com/photo/2023/05/17/14/18/bitcoin-8629504_1280.jpg)
+![Bitcoin Circuit Board Cryptocurrency](https://github.com/devprnvk/PyCryptoChain/blob/main/bitcoin-8629504_1280.jpg?raw=true)
 
 Welcome to PyCryptoChain! This project is a Python-based implementation of a blockchain designed to store data in distributed blocks of containers using hashing algorithms. PyCryptoChain aims to provide a fundamental understanding of blockchain technology and its applications in secure and decentralized data storage.
 
